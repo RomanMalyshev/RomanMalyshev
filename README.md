@@ -15,6 +15,10 @@ Senior Unity C# Developer
 <a href="https://noagard.itch.io/">
   <img src="https://img.itch.zone/aW1nLzIwNTc0MDc2LnBuZw==/315x250%23c/Dms9Gk.png" width="250"/>
 </a>
+
+## 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-m-0738211a2/)
 <!--
 **RomanMalyshev/RomanMalyshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
