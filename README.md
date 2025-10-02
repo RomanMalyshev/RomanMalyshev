@@ -13,7 +13,7 @@ Senior Unity C# Developer
   <img src="https://img.itch.zone/aW1nLzE3Mzk3NDI4LmpwZw==/315x250%23c/tsycVi.jpg" width="250"/>
 </a>
 <a href="https://noagard.itch.io/">
-  <img src="https://img.itch.zone/aW1nLzIwNTc0MDc2LnBuZw==/315x250%23c/Dms9Gk.png" width="250"/>
+  <img src="https://img.itch.zone/aW1nLzIzNDE5MjIyLnBuZw==/315x250%23c/tcOvqt.png" width="250"/>
 </a>
 
 ## 🔗 Connect with me:
